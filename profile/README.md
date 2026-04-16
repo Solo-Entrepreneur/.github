@@ -3,7 +3,7 @@
 > **Who this is for:** solo founders, indie hackers, creators, and operators turning ideas into real businesses.
 
 > **"Make something people want."**  
-> — [Paul Graham](http://www.paulgraham.com/start.html)
+> — [Paul Graham](https://www.paulgraham.com/start.html)
 
 ## Our Mission
 
