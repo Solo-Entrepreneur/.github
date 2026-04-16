@@ -1,31 +1,39 @@
-[Solo-Entrepreneur](https://github.com/Solo-Entrepreneur) is an open-source initiative to help solo founders build, launch, and scale one-person companies with AI.
+[Solo-Entrepreneur](https://github.com/Solo-Entrepreneur) is an open-source initiative for solo founders building one-person companies with AI.
 
-> **Who’s Who:** solo founders, indie hackers, builders, and operators turning ideas into real businesses.
+> **Who this is for:** solo founders, indie hackers, creators, and operators turning ideas into real businesses.
 
-> **"The easier it is to verify a solution, the faster an AI system can learn to master the task."**  
-> — [Alperen Keles (@alpaylan)](https://alperenkeles.com/posts/verifiability-is-the-limit), [Andrej Karpathy (@karpathy)](https://x.com/karpathy/status/1990116666194456651), [Jason Wei (@jasonwei20)](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+> **"Make something people want."**  
+> — [Paul Graham](https://www.paulgraham.com/start.html)
 
-**Our mission:** We believe a solo founder can build meaningful products faster with the right AI workflows, practical startup knowledge, and repeatable execution systems.
+## Our Mission
 
-**We welcome collaboration from founders, creators, and contributors across the solo entrepreneurship community.**
+We help solo entrepreneurs build and ship faster with:
 
-## ⚔️ What We Aim For
+- Practical AI workflows for daily execution
+- Proven startup knowledge and playbooks
+- Systems that reduce friction from idea to launch
+
+## What We Aim For
 
 Build practical, open resources that help solo founders:
 
-- Discover and validate startup ideas quickly.
-- Execute with AI-native workflows and automation.
-- Learn from proven startup playbooks and real-world examples.
-- Move from concept to launch with less friction.
+- Discover and validate startup ideas quickly
+- Execute with AI-native workflows and automation
+- Learn from real-world startup examples
+- Launch faster with focused, repeatable systems
 
-## 📊 What We Have Done
+## What We’ve Built
 
-Our current work in this org includes:
+Current work in this organization includes:
 
-- [**solopreneur**](https://github.com/Solo-Entrepreneur/solopreneur): an AI agent skill based on Stanford CS183B / Y Combinator’s *How to Start a Startup* course, including 20 lecture-based startup knowledge modules.
+- [**solopreneur**](https://github.com/Solo-Entrepreneur/solopreneur): an AI agent skill based on Stanford CS183B / Y Combinator’s *How to Start a Startup* course, with 20 startup knowledge modules.
 
-We’re building this repository foundation to grow more tools, guides, and systems for one-person companies.
+We’re building this foundation to expand with more tools, guides, and systems for one-person companies.
 
-## 📄 License
+## Contribute
 
-Repository-specific licenses apply. Please check each project for details.
+We welcome collaboration from founders, builders, and contributors across the solo entrepreneurship community.
+
+## License
+
+Each repository has its own license. Please check project-level license files for details.
