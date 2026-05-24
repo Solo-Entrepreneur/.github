@@ -1,4 +1,4 @@
-[Solo-Entrepreneur](https://github.com/Solo-Entrepreneur) is an open-source initiative for solo founders building one-person companies with AI.
+Solo-Entrepreneur is an open-source initiative for solo founders building one-person companies with AI.
 
 > **Who this is for:** solo founders, indie hackers, creators, and operators turning ideas into real businesses.
 
