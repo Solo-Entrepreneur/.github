@@ -26,7 +26,7 @@ Build practical, open resources that help solo founders:
 
 Current work in this organization includes:
 
-### [![solopreneur](https://img.shields.io/badge/🏟️-solopreneur-blue?style=for-the-badge)](https://huggingface.co/spaces/Solo-Entrepreneur/solopreneur)
+### [![solopreneur](https://img.shields.io/badge/🏟️-solopreneur-blue?style=for-the-badge)](https://github.com/Solo-Entrepreneur/solopreneur)
 An AI agent skill based on Stanford CS183B / Y Combinator’s *How to Start a Startup* course, with 20 startup knowledge modules.
 
 We’re building this foundation to expand with more tools, guides, and systems for one-person companies.
